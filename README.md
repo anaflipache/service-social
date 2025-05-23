@@ -61,3 +61,8 @@ Restituisce per l'utente identificato:
 - **Flask** – framework per la creazione dell’API 
 - **MySQL** – database relazionale
 - **JSON** – formato di scambio dati
+
+## 🔒 Licenza
+
+Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
+
